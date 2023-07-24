@@ -1,7 +1,7 @@
 # http route matcher
 
-+30% faster when replace express route matcher
-+14% faster when replace fastify route matcher
++40% faster when replace express route matcher
++20% faster when replace fastify route matcher
 
 ```
 npm i autocannon -g
